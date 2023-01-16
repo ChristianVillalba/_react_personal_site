@@ -1,5 +1,4 @@
-# _react_personal_site
-# Personal-Site
+# Personal Site (Updated 2023)
 
 This is a static site (HTML , CSS &amp; JS)
 
